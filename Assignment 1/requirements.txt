@@ -1,0 +1,7 @@
+Name: ns_assigment1
+dependencies:
+- python=3.9.5
+- numpy=1.19.5
+- networkx=2.6.3
+- seaborn=0.11.2
+- scipy=1.7.3
